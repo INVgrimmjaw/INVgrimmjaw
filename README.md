@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashwini Anand</h1>
 <h3 align="center">I’m a final-year undergraduate at IIT Roorkee with a strong interest in software engineering, systems, and problem-solving. I enjoy building real-world projects across full-stack development, algorithms, and game development, and I’m always curious about how things work under the hood. I actively code, experiment with new technologies, and aim to turn ideas into reliable, scalable solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=invgrimmjaw&label=Profile%20views&color=0e75b6&style=flat" alt="invgrimmjaw" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=INVgrimmjaw&label=Profile%20views&color=0e75b6&style=flat" alt="invgrimmjaw" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=invgrimmjaw" alt="invgrimmjaw" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=INVgrimmjaw" alt="invgrimmjaw" /></a> </p>
 
 - 🔭 I’m currently working on [CFOP-Rubik-s-Cube-Solver](https://github.com/INVgrimmjaw/CFOP-Rubik-s-Cube-Solver)
 
@@ -16,10 +16,6 @@
 - 📫 How to reach me **anandashwin1201@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FlejWNN9yeRmDnr9pR8KPkjCcvkEtwzC/view?usp=drivesdk](https://drive.google.com/file/d/1FlejWNN9yeRmDnr9pR8KPkjCcvkEtwzC/view?usp=drivesdk)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
