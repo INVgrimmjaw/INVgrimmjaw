@@ -28,7 +28,7 @@ Always curious about how things work under the hood and focused on building reli
 - 📧 **anandashwin1201@gmail.com**
 
 ### 📄 Resume
-- 📄 [View Resume](https://drive.google.com/file/d/1FlejWNN9yeRmDnr9pR8KPkjCcvkEtwzC/view)
+- 📄 [View Resume](https://drive.google.com/drive/folders/1Vn3FxcqiSipjD5ErTfN_1ln3fhmuqoVm)
 
 ---
 
