@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashwini Anand</h1>
 
 <h3 align="center">
-Final-year undergraduate at IIT Roorkee with a strong interest in software engineering, systems, and problem-solving.
+IIT Roorkee graduate with a strong interest in software engineering, systems, and problem-solving.
 I enjoy building real-world projects across full-stack development, algorithms, and game development.
 Always curious about how things work under the hood and focused on building reliable, scalable solutions.
 </h3>
